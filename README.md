@@ -38,6 +38,10 @@ uvicorn main:app --reload
 Open:
 
 http://127.0.0.1:8000/docs
+
+
+
+
 ## ✅ Conclusion
 
 The MediCare Clinic API demonstrates a complete backend solution for managing doctors and appointments using FastAPI. It covers essential concepts like API design, data validation, and business logic implementation.
