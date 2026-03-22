@@ -1,7 +1,4 @@
-Here’s a short and clean README.md (perfect for submission) 👇
 
-
----
 
 # 🏥 MediCare Clinic API
 
